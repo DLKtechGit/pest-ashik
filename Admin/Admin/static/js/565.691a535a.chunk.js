@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpest_admin=self.webpackChunkpest_admin||[]).push([[565],{40565:function(s,e,t){t.r(e);var u=t(33497),a=t(46417);e.default=()=>(0,a.jsx)(u.Z,{title:"List of Customers"})}}]);
